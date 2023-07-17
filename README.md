@@ -6,3 +6,4 @@ Discord User: <a href="https://discord.com/users/1124455082763759758">kenanneo#5
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenanneo)
